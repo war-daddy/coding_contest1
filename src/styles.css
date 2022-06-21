@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: grid;
+  align-items: center;
+}
+table,
+td,
+th {
+  font-family: cursive;
+  font-size: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+  word-wrap: break-word;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 15px;
+  width: 100px;
+}
